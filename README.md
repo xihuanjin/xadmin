@@ -1,2 +1,2 @@
 # xadmin
-SpringBoot+MybatisPlus+Spring-Secutity
+SpringBoot+MybatisPlus+SpringSecurity
